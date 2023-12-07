@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//25/11/2564
+
 struct info
 {
     int room, id;

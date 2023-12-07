@@ -1,9 +1,5 @@
 {
-  "files.associations": {
-    "random": "cpp",
-    "ranges": "cpp",
-    "ratio": "cpp",
-    "iostream": "cpp",
-    "ostream": "cpp"
-  }
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
